@@ -28,7 +28,7 @@ Each algorithm is evaluated in terms of:
 Clone the repository and install the dependencies using:
 
 ```bash
-git clone https://github.com/username/MNIST_Optimization_Algorithms_Performance_Comparison.git
+git clone https://github.com/Omar-Elshawaf/MNIST_Optimization_Algorithms_Performance_Comparison.git
 ```
 
 ```bash
